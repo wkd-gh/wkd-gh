@@ -33,29 +33,54 @@ I’m constantly improving my skills in **SQL, machine learning, Web Development
 
 ## 📚 My History    
 🎓 **Myongji University**  
-🏷 **Department of Convergence Software**  
+🏷 **Department of Convergence Software (19.03~)**  
 
 📜 **Certifications**  
 - 📊 SQLD (SQL Developer)  
 - 📈 ADsP (Advanced Data Analytics Semi-Professional)  
 - 📊 Google Analytics Certification  
-- 🏆 경영정보시각화능력 필기  
+- 🏆 Business Intelligence Specialist 필기  
 
 ---
 
 ## 🗂 Projects  
 
-📌 **[SK Networks Family AI Camp 1st Term Project](https://github.com/wkd-gh/vehicle-faq-system)**  
+### 🔹 SK Networks Family AI Camp 
+📌 **[SK Networks Family AI Camp 1st Term Project](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-1nd-3Team)**  
    - 🚗 전국 자동차 등록 현황 및 기업 FAQ 조회 시스템  
    - 📅 2024.09.05 ~ 2024.09.06  
 
-📌 **[SK Networks Family AI Camp 2nd Term Project](https://github.com/wkd-gh/customer-churn-analysis)**  
+📌 **[SK Networks Family AI Camp 2nd Term Project](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-2ST-1TEAM)**  
    - 📊 고객 이탈 분석 및 예측  
    - 📅 2024.10.16 ~ 2024.10.17  
 
-📌 **[SK Networks Family AI Camp 3rd Term Project](https://github.com/wkd-gh/llm-document-qa)**  
+📌 **[SK Networks Family AI Camp 3rd Term Project](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-3RD-2Team)**  
    - 🤖 LLM을 연동한 내·외부 문서 기반 질의응답 시스템  
-   - 📅 2024.11.26 ~ 2024.11.28  
+   - 📅 2024.11.26 ~ 2024.11.28
+
+📌 **[SK Networks Family AI Camp 4th Term Project](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-4th-2TEAM)**  
+   - 🤖 LLM 웹 어플리케이션 제작 및 배포 (응급처치 대응 매뉴얼 조회 시스템 + 인근 병원 조회 서비스)  
+   - 📅 2024.12.18 ~ 2024.12.19
+
+📌 **[SK Networks Family AI Camp final Term Project](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-final-3Team)**  
+   - 🤖 sLLM 기반 Chrome Extension (FinPilot) 
+   - 📅 2024.12.20 ~ 2025.02.19
+   - 🏷 https://chromewebstore.google.com/detail/finpilot/hpdfbpijlbahkobocmggbdlbajicbkda?hl=ko
+     
+<br>
+
+### 🔹 Myongji UNIV 
+📌 **[SDA 2023 Term Project](https://github.com/jiwon-yoon92/2023-SDA)**  
+   - 📈 코로나로 인한 사회적 영향 분석 
+   - 📅 2023.11.29 ~ 2023.12.13
+
+📌 **[고급웹 프젝]()**  
+   - 📈 고급웹 프젝 
+   - 📅 2024.06.06 ~ 2024.06.13
+
+📌 **[Agricultural-product-classification](https://github.com/mju-capstone-qc/Agricultural-product-classification)**  
+   - 🤖 NAITE: 농산물 품질 확인 서비스 
+   - 📅 2024.03.05 ~ 2024.06.11
 
 ---
 
