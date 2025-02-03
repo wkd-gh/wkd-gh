@@ -82,7 +82,7 @@ I’m constantly improving my skills in **SQL, machine learning, Web Development
      
 <br>
 
-### 🔹 Myongji UNIV 
+### 🔹 Myongji UNIV. 
 📌 **[seoul-business-analysis](https://github.com/wkd-gh/seoul-business-analysis)**  
    - 📈 서울시 상권 분석 
    - 📅 2023.06.07 ~ 2023.06.14
