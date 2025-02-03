@@ -101,6 +101,7 @@ I’m constantly improving my skills in **SQL, machine learning, Web Development
    - 🌾 NAITE: 농산물 품질 확인 서비스 
    - 📅 2024.03.05 ~ 2024.06.11
    - 📑 [Presentation document](https://docs.google.com/presentation/d/e/2PACX-1vQUcHRtOuFwj0a8N5oigyEV6WJdl1LqsW66oX-JDnCxmga_al-MWjOg4zYbIF20PA/pub?start=false&loop=false&delayms=3000&slide=id.p1)
+   - 🎥 [Demo video](https://github-production-user-asset-6210df.s3.amazonaws.com/60644352/338130923-f60eaa1d-38a8-486f-9b74-3780d118248a.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250203%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250203T210406Z&X-Amz-Expires=300&X-Amz-Signature=b9698e09955d17644e50774e7bbd60d8e3c719cce69e9cdfd9ee6a7ea3c01eba&X-Amz-SignedHeaders=host)
 
 ---
 
