@@ -30,8 +30,11 @@ I’m constantly improving my skills in **SQL, machine learning, Web Development
 ---
 
 ## 📚 My History    
-🎓 **Myongji University**  
-🏷 **Department of Convergence Software (19.03~)**  
+🎓 **Myongji University**  Department of Convergence Software (19.03~)
+
+📖 **SK Networks Family AI Camp**  Boot Camp (24.08 ~ 25.02)
+ 
+<br>
 
 📜 **Certifications**  
 - 📊 SQLD (SQL Developer)  
@@ -50,20 +53,25 @@ I’m constantly improving my skills in **SQL, machine learning, Web Development
 
 📌 **[SK Networks Family AI Camp 2nd Term Project](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-2ST-1TEAM)**  
    - 📊 고객 이탈 분석 및 예측  
-   - 📅 2024.10.16 ~ 2024.10.17  
+   - 📅 2024.10.16 ~ 2024.10.17
+   - 🏷 [Presentation document](https://github.com/wkd-gh/20241212/blob/main/SK%20Networks%20Family%20AI%20Camp%202nd%20Term%20Project_Presentation%20document.pdf)
 
 📌 **[SK Networks Family AI Camp 3rd Term Project](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-3RD-2Team)**  
    - 🤖 LLM을 연동한 내·외부 문서 기반 질의응답 시스템  
    - 📅 2024.11.26 ~ 2024.11.28
+   - 🏷 [Presentation document](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-3RD-2TEAM/blob/main/SKN05-3rd-2Team%20document.pdf)
 
 📌 **[SK Networks Family AI Camp 4th Term Project](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-4th-2TEAM)**  
    - 🤖 LLM 웹 어플리케이션 제작 및 배포 (응급처치 대응 매뉴얼 조회 시스템 + 인근 병원 조회 서비스)  
    - 📅 2024.12.18 ~ 2024.12.19
+   - 🏷 [Presentation document](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-4TH-2TEAM/blob/main/SKN05-4th-2Team/SKN05-4th-2Team-%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 
 📌 **[SK Networks Family AI Camp final Term Project](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-final-3Team)**  
    - 🤖 sLLM 기반 Chrome Extension (FinPilot) 
    - 📅 2024.12.20 ~ 2025.02.19
-   - 🏷 https://chromewebstore.google.com/detail/finpilot/hpdfbpijlbahkobocmggbdlbajicbkda?hl=ko
+   - 🏷 [Add to Chrome](https://chromewebstore.google.com/detail/finpilot/hpdfbpijlbahkobocmggbdlbajicbkda?hl=ko)
+   - 🏷 [Presentation document - 중간 발표](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-FINAL-3TEAM/blob/main/Docs/SKN05_3Team_%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
+   - 🏷 [Presentation document - 최종 발표_25.02.19 예정]()
      
 <br>
 
@@ -71,14 +79,17 @@ I’m constantly improving my skills in **SQL, machine learning, Web Development
 📌 **[SDA 2023 Term Project](https://github.com/jiwon-yoon92/2023-SDA)**  
    - 📈 코로나로 인한 사회적 영향 분석 
    - 📅 2023.11.29 ~ 2023.12.13
+   - 🏷 [Presentation document](https://github.com/jiwon-yoon92/2023-SDA/blob/main/project_1/%EA%B3%84%ED%9A%8D%EC%84%9C.md)
 
 📌 **[고급웹 프젝]()**  
    - 📈 고급웹 프젝 
    - 📅 2024.06.06 ~ 2024.06.13
+   - 🏷 [Presentation document](https://chromewebstore.google.com/detail/finpilot/hpdfbpijlbahkobocmggbdlbajicbkda?hl=ko)
 
 📌 **[Agricultural-product-classification](https://github.com/mju-capstone-qc/Agricultural-product-classification)**  
    - 🤖 NAITE: 농산물 품질 확인 서비스 
    - 📅 2024.03.05 ~ 2024.06.11
+   - 🏷 [Presentation document](https://docs.google.com/presentation/d/e/2PACX-1vQUcHRtOuFwj0a8N5oigyEV6WJdl1LqsW66oX-JDnCxmga_al-MWjOg4zYbIF20PA/pub?start=false&loop=false&delayms=3000&slide=id.p1)
 
 ---
 
