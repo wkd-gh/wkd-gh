@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/wkd-gh/wkd-gh/blob/main/github_banner.png?raw=true" alt="Seo JangHo" width="600">
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Seo%20Jangho&fontSize=90)
 
 # Hi there! 👋  
 
