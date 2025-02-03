@@ -96,6 +96,7 @@ I’m constantly improving my skills in **SQL, machine learning, Web Development
    - ✈️ 소셜 여행 커뮤니티 플랫폼 웹서비스 개발 
    - 📅 2024.06.06 ~ 2024.06.13
    - 📑 [Presentation document](https://github.com/wkd-gh/TCP-Travel-Community-Platform-/blob/main/TCP(Travel%20Community%20Platform).pdf)
+   - 🎥 [Demo video](https://www.veed.io/view/20819837-6974-4de9-884a-97f01aa55ac1?panel=share)
 
 📌 **[Agricultural-product-classification](https://github.com/mju-capstone-qc/Agricultural-product-classification)**  
    - 🌾 NAITE: 농산물 품질 확인 서비스 
