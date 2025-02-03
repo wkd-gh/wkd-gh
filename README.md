@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/image.png" alt="Seo JangHo" width="600">
+  <img src="https://github.com/wkd-gh/wkd-gh/blob/main/github_banner.png?raw=true" alt="Seo JangHo" width="600">
 </p>
 
 # Hi there! 👋  
