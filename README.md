@@ -86,7 +86,7 @@ I’m constantly improving my skills in **SQL, machine learning, Web Development
 📌 **[SDA 2023 Term Project](https://github.com/jiwon-yoon92/2023-SDA)**  
    - 😷 코로나로 인한 사회적 영향 분석 
    - 📅 2023.11.29 ~ 2023.12.13
-   - 📑 [Presentation document](https://github.com/wkd-gh/SDA-2023-Term-Project/blob/main/SDA%202023%20Term%20Project.pdf)
+   - 📑 [Presentation document](https://github.com/wkd-gh/SDA-2023-Term-Project/blob/main/SDA-2023-Term-Project.pdf)
 
 📌 **[Travel Community Platform (TCP)](https://github.com/wkd-gh/TCP-Travel-Community-Platform-/tree/main)**  
    - ✈️ 소셜 여행 커뮤니티 플랫폼 웹서비스 개발 
