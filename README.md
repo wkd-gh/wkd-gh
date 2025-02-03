@@ -88,10 +88,10 @@ I’m constantly improving my skills in **SQL, machine learning, Web Development
    - 📅 2023.11.29 ~ 2023.12.13
    - 🏷 [Presentation document](https://github.com/jiwon-yoon92/2023-SDA/blob/main/project_1/%EA%B3%84%ED%9A%8D%EC%84%9C.md)
 
-📌 **[고급웹 프젝]()**  
-   - 📈 고급웹 프젝 
+📌 **[Travel Community Platform (TCP)](https://github.com/wkd-gh/TCP-Travel-Community-Platform-/tree/main)**  
+   - 📈 소셜 여행 커뮤니티 플랫폼 웹서비스 개발 
    - 📅 2024.06.06 ~ 2024.06.13
-   - 🏷 [Presentation document](https://chromewebstore.google.com/detail/finpilot/hpdfbpijlbahkobocmggbdlbajicbkda?hl=ko)
+   - 🏷 [Presentation document](https://github.com/wkd-gh/TCP-Travel-Community-Platform-/blob/main/TCP(Travel%20Community%20Platform).pdf)
 
 📌 **[Agricultural-product-classification](https://github.com/mju-capstone-qc/Agricultural-product-classification)**  
    - 🤖 NAITE: 농산물 품질 확인 서비스 
