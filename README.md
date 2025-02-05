@@ -54,26 +54,26 @@ I’m constantly improving my skills in **SQL, machine learning, Web Development
 ## 🗂 Projects  
 
 ### 🔹 SK Networks Family AI Camp 
-📌 **[SK Networks Family AI Camp 1st Term Project](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-1nd-3Team)**  
+📌 **[SK Networks Family AI Camp 1st Project](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-1nd-3Team)**  
    - 🚗 전국 자동차 등록 현황 및 기업 FAQ 조회 시스템  
    - 📅 2024.09.05 ~ 2024.09.06  
 
-📌 **[SK Networks Family AI Camp 2nd Term Project](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-2ST-1TEAM)**  
+📌 **[SK Networks Family AI Camp 2nd Project](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-2ST-1TEAM)**  
    - 🔍 고객 이탈 분석 및 예측  
    - 📅 2024.10.16 ~ 2024.10.17
    - 📑 [Presentation document](https://github.com/wkd-gh/20241212/blob/main/SK%20Networks%20Family%20AI%20Camp%202nd%20Term%20Project_Presentation%20document.pdf)
 
-📌 **[SK Networks Family AI Camp 3rd Term Project](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-3RD-2Team)**  
+📌 **[SK Networks Family AI Camp 3rd Project](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-3RD-2Team)**  
    - 📄 LLM을 연동한 내·외부 문서 기반 질의응답 시스템  
    - 📅 2024.11.26 ~ 2024.11.28
    - 📑 [Presentation document](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-3RD-2TEAM/blob/main/SKN05-3rd-2Team%20document.pdf)
 
-📌 **[SK Networks Family AI Camp 4th Term Project](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-4th-2TEAM)**  
+📌 **[SK Networks Family AI Camp 4th Project](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-4th-2TEAM)**  
    - 🚑 LLM 웹 어플리케이션 제작 및 배포 (응급처치 대응 매뉴얼 조회 시스템 + 인근 병원 조회 서비스)  
    - 📅 2024.12.18 ~ 2024.12.19
    - 📑 [Presentation document](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-4TH-2TEAM/blob/main/SKN05-4th-2Team/SKN05-4th-2Team-%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 
-📌 **[SK Networks Family AI Camp final Term Project](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-final-3Team)**  
+📌 **[SK Networks Family AI Camp Final Project](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-final-3Team)**  
    - 🤖 sLLM 기반 Chrome Extension (FinPilot) 
    - 📅 2024.12.20 ~ 2025.02.19
    - 📑 [Presentation document - 중간 발표](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-FINAL-3TEAM/blob/main/Docs/SKN05_3Team_%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
