@@ -77,8 +77,8 @@ I’m constantly improving my skills in **SQL, machine learning, Web Development
 📌 **[SK Networks Family AI Camp Final Project](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-final-3Team)**  
    - 🤖 sLLM 기반 Chrome Extension (FinPilot) 
    - 📅 2024.12.20 ~ 2025.02.19
-   - 📑 [Presentation document - Midterm Presentation](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-FINAL-3TEAM/blob/main/Docs/SKN05_3Team_%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
-   - 📑 [Presentation document - Final Presentation]()
+   - 📑 [Presentation document - Midterm](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-FINAL-3TEAM/blob/main/Docs/SKN05_3Team_%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
+   - 📑 [Presentation document - Final]()
    - [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/finpilot/hpdfbpijlbahkobocmggbdlbajicbkda?hl=ko)
    - [![유튜브 썸네일](https://img.youtube.com/vi/lYsiHClvmTY/0.jpg)](https://www.youtube.com/watch?v=lYsiHClvmTY)
      
