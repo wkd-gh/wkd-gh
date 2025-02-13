@@ -73,12 +73,14 @@ I’m constantly improving my skills in **SQL, machine learning, Web Development
    - 🚑 LLM 웹 어플리케이션 제작 및 배포 (응급처치 대응 매뉴얼 조회 시스템 + 인근 병원 조회 서비스)  
    - 📅 2024.12.18 ~ 2024.12.19
    - 📑 [Presentation document](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-4TH-2TEAM/blob/main/SKN05-4th-2Team/SKN05-4th-2Team-%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
+   - [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://upbeat-william-67d.notion.site/SKN-Term-Project-4-1601ac6c275c80dd9710cc16caecd8d1)
 
 📌 **[SK Networks Family AI Camp Final Project](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-final-3Team)**  
    - 🤖 sLLM 기반 Chrome Extension (FinPilot) 
    - 📅 2024.12.20 ~ 2025.02.19
    - 📑 [Presentation document - Midterm](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-FINAL-3TEAM/blob/main/Docs/SKN05_3Team_%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
    - 📑 [Presentation document - Final]()
+   - [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://alluring-cerise-57f.notion.site/FinPilot-Home-1655128db47f80cabc52e0568a116d94)
    - [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/finpilot/hpdfbpijlbahkobocmggbdlbajicbkda?hl=ko) <br>
 [![유튜브 썸네일](https://img.youtube.com/vi/lYsiHClvmTY/0.jpg)](https://www.youtube.com/watch?v=lYsiHClvmTY)
      
