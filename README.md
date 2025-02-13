@@ -22,7 +22,8 @@ I’m constantly improving my skills in **SQL, machine learning, Web Development
 
 🔗 **Etc..**
 
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)  ![Tistory](https://img.shields.io/badge/-Tistory-000000?style=flat&logo=tistory&logoColor=white)  
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)  ![Tistory](https://img.shields.io/badge/-Tistory-000000?style=flat&logo=tistory&logoColor=white) ![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)
+  
 
 ---
 
@@ -115,4 +116,5 @@ I’m constantly improving my skills in **SQL, machine learning, Web Development
 ---
 
 ## 📫 How to reach me  
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:sjh008272@gmail.com) [![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white)](mailto:sjh75555@naver.com)  [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white)](https://wkd-gh.tistory.com/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/wkd_gh/) 
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:sjh008272@gmail.com) [![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white)](mailto:sjh75555@naver.com)  [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white)](https://wkd-gh.tistory.com/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/wkd_gh/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Jangho_Seo)
+
