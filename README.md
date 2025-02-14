@@ -83,8 +83,8 @@ I’m constantly improving my skills in **SQL, machine learning, Web Development
    - 📑 [Presentation document - Midterm](https://file.notion.so/f/f/9e54716d-3829-475a-b73a-e3956ce8f830/01d44506-40ac-4c1f-bb87-e006123b8b3d/SKN05_3Team_%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf?table=block&id=1935128d-b47f-8085-ba4c-c198ab9498d6&spaceId=9e54716d-3829-475a-b73a-e3956ce8f830&expirationTimestamp=1739484000000&signature=WHAyw5lKxP7VdtJOJAKtemvXf8uZ9qyXVvqp8Rwkc4Y&downloadName=SKN05_3Team_%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
    - 📑 [Presentation document - Final](https://file.notion.so/f/f/9e54716d-3829-475a-b73a-e3956ce8f830/5cc3ac73-31ce-4848-b3a2-c7221de0430a/SKN05_3Team_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf?table=block&id=1935128d-b47f-80aa-9938-f43230364389&spaceId=9e54716d-3829-475a-b73a-e3956ce8f830&expirationTimestamp=1739484000000&signature=lVfgJuA5mM_JR4yCwRDHnfur9SeegXQRzBP1T_BAVfc&downloadName=SKN05_3Team_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
    - [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://alluring-cerise-57f.notion.site/FinPilot-Home-1655128db47f80cabc52e0568a116d94)
-   - [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/finpilot/hpdfbpijlbahkobocmggbdlbajicbkda?hl=ko) <br>
-[![유튜브 썸네일](https://img.youtube.com/vi/lYsiHClvmTY/0.jpg)](https://www.youtube.com/watch?v=lYsiHClvmTY)
+   - [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/finpilot/hpdfbpijlbahkobocmggbdlbajicbkda?hl=ko)
+   - [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=lYsiHClvmTY)
      
 <br>
 
