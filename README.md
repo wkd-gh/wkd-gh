@@ -57,7 +57,8 @@ I’m constantly improving my skills in **SQL, machine learning, Web Development
 ### 🔹 SK Networks Family AI Camp 
 📌 **[SK Networks Family AI Camp 1st Project](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-1nd-3Team)**  
    - 🚗 전국 자동차 등록 현황 및 기업 FAQ 조회 시스템  
-   - 📅 2024.09.05 ~ 2024.09.06  
+   - 📅 2024.09.05 ~ 2024.09.06
+   - [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://upbeat-william-67d.notion.site/SKN5-Term-Project-1-19a1ac6c275c80c987d2e27f4c4382ce)
 
 📌 **[SK Networks Family AI Camp 2nd Project](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-2ST-1TEAM)**  
    - 🔍 고객 이탈 분석 및 예측  
@@ -68,6 +69,7 @@ I’m constantly improving my skills in **SQL, machine learning, Web Development
    - 📄 LLM을 연동한 내·외부 문서 기반 질의응답 시스템  
    - 📅 2024.11.26 ~ 2024.11.28
    - 📑 [Presentation document](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-3RD-2TEAM/blob/main/SKN05-3rd-2Team%20document.pdf)
+   - [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://upbeat-william-67d.notion.site/SKN5-Term-Project-3-1521ac6c275c80e9af84f6d1d8c52e1e)
 
 📌 **[SK Networks Family AI Camp 4th Project](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-4th-2TEAM)**  
    - 🚑 LLM 웹 어플리케이션 제작 및 배포 (응급처치 대응 매뉴얼 조회 시스템 + 인근 병원 조회 서비스)  
