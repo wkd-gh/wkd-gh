@@ -84,7 +84,7 @@ I’m constantly improving my skills in **SQL, machine learning, Web Development
    - 📑 [Presentation document - Final](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-FINAL-3TEAM/blob/main/Docs/SKN05_3Team_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
    - [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://alluring-cerise-57f.notion.site/FinPilot-Home-1655128db47f80cabc52e0568a116d94)
    - [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/finpilot/hpdfbpijlbahkobocmggbdlbajicbkda?hl=ko)
-   - [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=lYsiHClvmTY)
+   - [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtu.be/QYsDuSCmkFs)
      
 <br>
 
