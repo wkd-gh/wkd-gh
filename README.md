@@ -110,14 +110,7 @@ I’m constantly improving my skills in **SQL, machine learning, Web Development
    - 🌾 NAITE: 농산물 품질 확인 서비스 
    - 📅 2024.03.05 ~ 2024.06.11
    - 📑 [Presentation document](https://docs.google.com/presentation/d/e/2PACX-1vQUcHRtOuFwj0a8N5oigyEV6WJdl1LqsW66oX-JDnCxmga_al-MWjOg4zYbIF20PA/pub?start=false&loop=false&delayms=3000&slide=id.p1)
-   - 🎥 [Demo video](https://github.com/rhtjddls123/Agricultural-product-classification/assets/60644352/f60eaa1d-38a8-486f-9b74-3780d118248a)
-
----
-
-## 🚀 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wkd-gh&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wkd-gh&layout=compact&theme=tokyonight)  
-
-![Profile Views](https://komarev.com/ghpvc/?username=wkd-gh&style=flat&color=blue)  
+   - 🎥 [Demo video](https://github.com/rhtjddls123/Agricultural-product-classification/assets/60644352/f60eaa1d-38a8-486f-9b74-3780d118248a) 
 
 ---
 
