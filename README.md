@@ -40,9 +40,9 @@ I’m constantly improving my skills in **SQL, machine learning, Web Development
 ---
 
 ## 📚 My History    
-🎓 **Myongji University**  Department of Convergence Software (19.03~)
+🎓 **MyongJi University. Seoul.** Convergence Software Data Technology (19.03~)
 
-📖 **SK Networks Family AI Camp**  Boot Camp (24.08 ~ 25.02)
+📖 **SK Networks Family AI Camp** (24.08 ~ 25.02)
  
 <br>
 
@@ -90,7 +90,7 @@ I’m constantly improving my skills in **SQL, machine learning, Web Development
      
 <br>
 
-### 🔹 Myongji UNIV. 
+### 🔹 MyongJi UNIV. 
 📌 **[seoul-business-analysis](https://github.com/wkd-gh/seoul-business-analysis)**  
    - 📈 서울시 상권 분석 
    - 📅 2023.06.07 ~ 2023.06.14
