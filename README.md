@@ -43,6 +43,8 @@ I’m constantly improving my skills in **SQL, machine learning, Web Development
 🎓 **MyongJi University. Seoul.** Convergence Software Data Technology (19.03~)
 
 📖 **SK Networks Family AI Camp** (24.08 ~ 25.02)
+
+💼 **Irisbright Inc.** DevOps Team Engineer (25.03~)
  
 <br>
 
