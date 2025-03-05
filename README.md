@@ -82,7 +82,7 @@ I’m constantly improving my skills in **SQL, machine learning, Web Development
    - [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://upbeat-william-67d.notion.site/SKN-Term-Project-4-1601ac6c275c80dd9710cc16caecd8d1)
 
 📌 **[SK Networks Family AI Camp Final Project](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-final-3Team)**  
-   - 🤖 sLLM 기반 Chrome Extension (FinPilot) 
+   - 🤖 FinPilot: LLM 기반 Chrome Extension
    - 📅 2024.12.20 ~ 2025.02.19
    - 📑 [Presentation document - Midterm](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-FINAL-3TEAM/blob/main/Docs/SKN05_3Team_%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
    - 📑 [Presentation document - Final](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-FINAL-3TEAM/blob/develop/Docs/SKN05_3Team_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
