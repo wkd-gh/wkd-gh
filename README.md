@@ -8,8 +8,8 @@ Hello! I’m a data technology student passionate about **data analytics, AI, an
 I thrive on extracting meaningful insights from data and building AI-powered solutions.  
 I’m constantly improving my skills in **SQL, machine learning, Web Development and business intelligence tools** to make data-driven decisions more impactful.  
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/wkd-gh&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 ![Hits](https://visitor-badge.glitch.me/badge?page_id=wkd-gh&left_color=%2379C83D&right_color=%23555555&left_text=hits&right_text=github)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/wkd-gh&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 ---
 
@@ -50,17 +50,21 @@ I’m constantly improving my skills in **SQL, machine learning, Web Development
 <br>
 
 🏆 **Certifications**  
-- 🗃️ SQLD (SQL Developer)  
+- 📋 SQLD (SQL Developer)  
 - 📊 ADsP (Advanced Data Analytics Semi-Professional)  
 - 📈 Google Analytics Certification  
 - 📚 Business Intelligence Specialist 필기
-- Tableau Bootcamp 수료
+- 🔍 Tableau Bootcamp 수료
 
 ---
 
 ## 🗂 Projects  
 
-### 🔹 SK Networks Family AI Camp 
+### SK Networks Family AI Camp 
+<details>
+  <summary>🔹 content</summary>
+<br>
+  
 📌 **[SK Networks Family AI Camp 1st Project](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-1nd-3Team)**  
    - 🚗 전국 자동차 등록 현황 및 기업 FAQ 조회 시스템  
    - 📅 2024.09.05 ~ 2024.09.06
@@ -91,10 +95,15 @@ I’m constantly improving my skills in **SQL, machine learning, Web Development
    - [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://alluring-cerise-57f.notion.site/FinPilot-Home-1655128db47f80cabc52e0568a116d94)
    - [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/finpilot/hpdfbpijlbahkobocmggbdlbajicbkda?hl=ko)
    - [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtu.be/QYsDuSCmkFs)
-     
+</details>   
+
 <br>
 
-### 🔹 MyongJi UNIV. 
+### MyongJi UNIV.
+<details>
+  <summary>🔹 content</summary>
+<br>
+  
 📌 **[seoul-business-analysis](https://github.com/wkd-gh/seoul-business-analysis)**  
    - 📈 서울시 상권 분석 
    - 📅 2023.06.07 ~ 2023.06.14
@@ -114,7 +123,8 @@ I’m constantly improving my skills in **SQL, machine learning, Web Development
    - 🌾 NAITE: 농산물 품질 확인 서비스 
    - 📅 2024.03.05 ~ 2024.06.11
    - 📑 [Presentation document](https://docs.google.com/presentation/d/e/2PACX-1vQUcHRtOuFwj0a8N5oigyEV6WJdl1LqsW66oX-JDnCxmga_al-MWjOg4zYbIF20PA/pub?start=false&loop=false&delayms=3000&slide=id.p1)
-   - 🎥 [Demo video](https://github.com/rhtjddls123/Agricultural-product-classification/assets/60644352/f60eaa1d-38a8-486f-9b74-3780d118248a) 
+   - 🎥 [Demo video](https://github.com/rhtjddls123/Agricultural-product-classification/assets/60644352/f60eaa1d-38a8-486f-9b74-3780d118248a)
+</details>
 
 ---
 
