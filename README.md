@@ -9,6 +9,7 @@ I thrive on extracting meaningful insights from data and building AI-powered sol
 I’m constantly improving my skills in **SQL, machine learning, Web Development and business intelligence tools** to make data-driven decisions more impactful.  
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/wkd-gh&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+![Hits](https://visitor-badge.glitch.me/badge?page_id=wkd-gh&left_color=%2379C83D&right_color=%23555555&left_text=hits&right_text=github)
 
 ---
 
@@ -52,7 +53,8 @@ I’m constantly improving my skills in **SQL, machine learning, Web Development
 - 🗃️ SQLD (SQL Developer)  
 - 📊 ADsP (Advanced Data Analytics Semi-Professional)  
 - 📈 Google Analytics Certification  
-- 📚 Business Intelligence Specialist 필기  
+- 📚 Business Intelligence Specialist 필기
+- Tableau Bootcamp 수료
 
 ---
 
