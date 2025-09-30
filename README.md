@@ -53,7 +53,6 @@ I’m constantly improving my skills in **SQL, machine learning, Web Development
 - 📋 SQLD (SQL Developer)  
 - 📊 ADsP (Advanced Data Analytics Semi-Professional)  
 - 📈 Google Analytics Certification  
-- 📚 Business Intelligence Specialist 필기
 - 🔍 Tableau Bootcamp 27기 – Certificate of Completion
 
 ---
