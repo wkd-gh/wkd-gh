@@ -8,15 +8,12 @@ Hello! I’m a data technology student passionate about **data analytics, AI, an
 I thrive on extracting meaningful insights from data and building AI-powered solutions.  
 I’m constantly improving my skills in **SQL, machine learning, Web Development and business intelligence tools** to make data-driven decisions more impactful.  
 
-![Hits](https://visitor-badge.glitch.me/badge?page_id=wkd-gh&left_color=%2379C83D&right_color=%23555555&left_text=hits&right_text=github)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/wkd-gh&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-
 ---
 
 ## ⚙ Tech Stack   
 🖥️ **I usually use** 
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-4B8BBE?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-4B8BBE?style=flat&logo=python&logoColor=white)
 
 💡 **And also**  
 
