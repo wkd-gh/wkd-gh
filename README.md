@@ -22,7 +22,7 @@ I’m constantly improving my skills in **SQL, machine learning, Web Development
 
 🔗 **Etc..**
 
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)  ![Tistory](https://img.shields.io/badge/-Tistory-000000?style=flat&logo=tistory&logoColor=white) ![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  ![Slack](https://img.shields.io/badge/-Slack-5865F2?style=flat&logo=slack&logoColor=white)  ![Tistory](https://img.shields.io/badge/-Tistory-000000?style=flat&logo=tistory&logoColor=white) ![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)
   
 
 ---
