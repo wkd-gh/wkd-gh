@@ -24,7 +24,7 @@
 ---
 
 ## My History    
-- **MyongJi University. Seoul.** Convergence Software Data Technology (19.03~)
+- **MyongJi University. Seoul.** Convergence Software Data Science (19.03~)
 
 - **SK Networks Family AI Camp** (24.08 ~ 25.02)
 
@@ -36,7 +36,7 @@
 - SQLD (SQL Developer)  
 - ADsP (Advanced Data Analytics Semi-Professional)  
 - Google Analytics Certification  
-- Tableau Bootcamp 27기 – Certificate of Completion
+- Tableau Bootcamp 27th – Certificate of Completion
 
 ---
 
