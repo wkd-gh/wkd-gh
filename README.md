@@ -24,7 +24,7 @@
 ---
 
 ## My History    
-- **MyongJi University. Seoul.** Convergence Software Data Science (19.03~)
+- **MyongJi University. Seoul.** Convergence Software Data Science (19.03 ~ 26.02)
 
 - **SK Networks Family AI Camp** (24.08 ~ 25.02)
 
