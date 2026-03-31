@@ -29,6 +29,8 @@
 - **SK Networks Family AI Camp** (24.08 ~ 25.02)
 
 - **Irisbright Inc.** Data Platform Part, IT Strategy Team (25.03 ~ 26.04)
+
+- **Coupang Logistics Services.** (26.04 ~ing)
  
 <br>
 
