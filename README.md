@@ -2,7 +2,7 @@
 
 # Hi there! 👋  
 
-**Data Engineer | Data Analyst**  
+**Data Engineer | Data Analytics Engineer**  
 
 ---
 
