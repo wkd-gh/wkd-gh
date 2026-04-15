@@ -1,12 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Seo%20Jangho&fontSize=90)
 
-# Hi there! 👋  
-
-**Data Engineer | Data Analytics Engineer**  
+### **Data Engineer | Data Analytics Engineer**  
 
 ---
 
-## Tech Stack
+### Skills
 
 <div align="left">
   
@@ -23,7 +21,7 @@
  
 ---
 
-## My History    
+### History    
 - **MyongJi University. Seoul.** Convergence Software Data Science (19.03 ~ 26.02)
 
 - **SK Networks Family AI Camp** (24.08 ~ 25.02)
@@ -42,9 +40,9 @@
 
 ---
 
-## Projects  
+### Projects  
 
-### SK Networks Family AI Camp 
+#### SK Networks Family AI Camp 
 <details>
   <summary>content</summary>
 <br>
@@ -83,7 +81,7 @@
 
 <br>
 
-### MyongJi UNIV.
+#### MyongJi UNIV.
 <details>
   <summary>content</summary>
 <br>
@@ -109,9 +107,3 @@
    - [Presentation document](https://docs.google.com/presentation/d/e/2PACX-1vQUcHRtOuFwj0a8N5oigyEV6WJdl1LqsW66oX-JDnCxmga_al-MWjOg4zYbIF20PA/pub?start=false&loop=false&delayms=3000&slide=id.p1)
    - [Demo video](https://github.com/rhtjddls123/Agricultural-product-classification/assets/60644352/f60eaa1d-38a8-486f-9b74-3780d118248a)
 </details>
-
----
-
-## How to reach me  
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:sjh008272@gmail.com) [![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white)](mailto:sjh75555@naver.com)  [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white)](https://wkd-gh.tistory.com/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/wkd_gh/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Jangho_Seo)
-
