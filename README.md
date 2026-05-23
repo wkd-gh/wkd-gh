@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Seo%20Jangho&fontSize=90)
 
-### **Data Engineer | Data Analytics Engineer**  
+### **Data Analytics Engineer**  
 
 ---
 
@@ -106,4 +106,16 @@
    - 2024.03.05 ~ 2024.06.11
    - [Presentation document](https://docs.google.com/presentation/d/e/2PACX-1vQUcHRtOuFwj0a8N5oigyEV6WJdl1LqsW66oX-JDnCxmga_al-MWjOg4zYbIF20PA/pub?start=false&loop=false&delayms=3000&slide=id.p1)
    - [Demo video](https://github.com/rhtjddls123/Agricultural-product-classification/assets/60644352/f60eaa1d-38a8-486f-9b74-3780d118248a)
+</details>
+
+<br>
+
+#### Money-Digger
+<details>
+  <summary>content</summary>
+<br>
+  
+**[Money-Digger](https://github.com/Money-Digger)**  
+   - KRX 상장 금융상품 데이터를 자동 수집·적재하고 자연어로 조회할 수 있는 데이터 파이프라인 플랫폼
+   - 2026.05.10 ~ ing
 </details>
