@@ -28,7 +28,7 @@
 
 - **Irisbright Inc.** Data Platform Part, IT Strategy Team (25.03 ~ 26.04)
 
-- **Coupang Logistics Services.** Recruiting Data Analytics (26.04 ~ing)
+- **Coupang Logistics Services.** Recruiting Data Analytics (26.04 ~ 26.07)
  
 <br>
 
